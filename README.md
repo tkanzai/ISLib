@@ -103,6 +103,25 @@ ISLib expects a **pandas DataFrame** with:
 
 ---
 
+## Citing
+
+If this package has helped you in your research, consider citing:
+
+```bibtex
+@article {islib,
+  title   = {Instance Selection Strategies to Improve the Performance of Data-Driven Regression Models Applied to Industrial Systems},
+  journal = {Processes},
+  volume  = {13},
+  number  = {7},
+  pages   = {2187},
+  year    = {2025},
+  doi     = {10.3390/pr13072187},
+  author  = {Anzai, T.K.; de Brito, G.M.; Lemos, T.S.M.; Santos, J.S.; Furtado, P.H.T.; Pinto, J.C.},
+}
+```
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
